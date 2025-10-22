@@ -12,6 +12,12 @@ This project implements an **end-to-end deep learning pipeline** for automatic i
 
 ---
 
+## Model Architechture
+
+![Model architechture](https://github.com/user-attachments/assets/fbf08084-adf5-4339-937d-1c737fdef109)
+
+---
+
 ## Overview
 
 The **Image Captioner** project builds a smart system that looks at an image and writes a simple sentence describing what it sees. It uses deep learning, mixing computer vision and natural language processing, so you get captions that make real sense—even for new images. Designed for easy use and quick experiments, everything runs in Google Colab to speed up development.
